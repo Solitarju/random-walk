@@ -4,8 +4,8 @@ What is a random walk? <https://en.wikipedia.org/wiki/Random_walk>
 A random walk is a random process that describes a path that consists of a succession of random steps on some mathematical space.  
 
 In the above source code the random walk starts out as a point on a 1920x1080 texture, it then generates a random direction to move on a grid of a specified size (default of 4px).  
-The above program is in 2d space, which means the possible directions are: up, down, left and right. This process continues for a specified "steps" which determines how many  
-times it will move in a random direction from the center origin point.  
+
+The above program is in 2d space, which means the possible directions are: up, down, left and right. This process continues for a specified "steps" which determines how many times it will move in a random direction from the center origin point.  
 
 The random walk will be generated when the program starts and can be regenerated with a Key press (Enter).  
 
